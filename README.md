@@ -1,6 +1,8 @@
 
 # MAGIC Gamma Telescope Particle Classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devvranaa/magic-gamma-particle-classifier/blob/main/magic_gamma.ipynb)
+
 This project builds a supervised binary classification pipeline to differentiate high-energy **primary gamma rays (signal)** from background **hadron cosmic rays (noise)** using observational data from the Major Atmospheric Gamma Imaging Cherenkov (MAGIC) Telescope.
 
 ---
